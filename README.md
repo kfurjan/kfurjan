@@ -3,9 +3,7 @@
 ## About me
 
 - 💪 Working at Ericsson as backend/mobile software engineer
-- 👨‍🎓 I’m currently studying Software engineering
 - 🌱 Currently geeking over native mobile application development (Android / iOS)
-- 🥅 2021 Goals: Contribute to Open Source projects
 
 ## GitHub stats
 
