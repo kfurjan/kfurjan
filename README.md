@@ -4,6 +4,7 @@
 
 - 💪 Working at Ericsson as backend/mobile software engineer
 - 🌱 Currently geeking over native mobile application development (Android / iOS)
+- 💻 Developer blog: https://kevin-furjan.hashnode.dev/
 
 ## GitHub stats
 
