@@ -4,7 +4,6 @@
 
 - 💪 Working at Ericsson as backend/mobile software engineer
 - 🌱 Currently geeking over native mobile application development (Android / iOS)
-- 💻 Developer blog: https://kevin-furjan.hashnode.dev/
 
 ## GitHub stats
 
@@ -14,10 +13,18 @@
 
 [![Spotify](https://novatorem.kfurjan.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
 
+## Publications
+
+<a href="https://kevin-furjan.hashnode.dev/" target="_blank">
+  <img  src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />
+</a>
+
 ## Connect with me
 
-[<img align="left" alt="Kevin Furjan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Kevin Furjan | email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
-
-[linkedin]: https://linkedin.com/in/kevin-furjan
-[email]: mailto:kfurjan@gmail.com
+<a href="https://linkedin.com/in/kevin-furjan" target="_blank">
+  <img  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="mailto:kfurjan@gmail.com" target="_blank">
+  <img  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
