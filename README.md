@@ -18,6 +18,10 @@
 <a href="https://kevin-furjan.hashnode.dev/" target="_blank">
   <img  src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />
 </a>
+&nbsp;
+<a href="https://dev.to/kfurjan" target="_blank">
+  <img  src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
+</a>
 
 ## Connect with me
 
